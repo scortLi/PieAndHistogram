@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/control_alarm_hist_high"
+        android:layout_marginBottom="@dimen/home_item_pic_marright"
+        android:layout_marginLeft="@dimen/more_text_size"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_alarm_type_new"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hhahah"
+            android:textColor="@color/all_text_color"
+            android:textSize="@dimen/more_text_marginleft" />
+
+        <LinearLayout
+            android:id="@+id/tv_alarm_color"
+            android:layout_width="@dimen/control_stopcar_right"
+            android:layout_height="@dimen/control_alarm_hist_high"
+            android:layout_marginLeft="@dimen/control_alarm_text_left"
+            android:layout_marginTop="@dimen/send_button_corner_size"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_alarm_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/control_alarm_text_right"
+            android:text=""
+            android:textColor="@color/all_text_color"
+            android:textSize="@dimen/more_text_marginleft" />
+    </LinearLayout>
+
+</LinearLayout>

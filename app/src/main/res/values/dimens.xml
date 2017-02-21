@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="control_alarm_text_top">16px</dimen>
+    <dimen name="common_back_marginleft">40px</dimen>
+    <dimen name="vm_home_all_carinfo_text_size">38px</dimen>
+    <dimen name="more_head_texttop">50px</dimen>
+    <dimen name="control_alarm_pie_h">600px</dimen>
+    <dimen name="vm_home_car_item_margin">20px</dimen>
+    <dimen name="more_account_textsize">42px</dimen>
+    <dimen name="control_stopcar_right">800px</dimen>
+    <dimen name="control_alarm_hist_high">58px</dimen>
+    <dimen name="home_item_pic_marright">34px</dimen>
+    <dimen name="more_text_size">48px</dimen>
+    <dimen name="more_text_marginleft">42px</dimen>
+    <dimen name="control_alarm_text_left">22px</dimen>
+    <dimen name="send_button_corner_size">10px</dimen>
+    <dimen name="control_alarm_text_right">28px</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 颜色 -->
+    <color name="control_alarm_select_one_color">#fb6567</color>
+    <color name="control_alarm_select_two_color">#ffb359</color>
+    <color name="control_alarm_select_three_color">#808ae4</color>
+    <color name="control_alarm_select_four_color">#5ad6ff</color>
+    <color name="control_alarm_select_five_color">#ff9e57</color>
+    <color name="control_alarm_select_six_color">#5ec8a6</color>
+    <color name="control_alarm_select_seven_color">#71cdf8</color>
+    <color name="control_alarm_select_eight_color">#b4bff0</color>
+    <color name="control_operationdata_item_color">#7398e9</color>
+    <color name="control_operationdata_item_image">#92cd5d</color>
+    <color name="control_alarm_list_msgsend_gray">#b8babe</color>
+    <color name="all_text_color">#323537</color>
+</resources>
